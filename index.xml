@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes to Self</title>
+    <title>Scattered Thoughts and Wishful Thinking</title>
     <link>https://aa-private.github.io/</link>
-    <description>Notes to Self</description>
+    <description>Scattered Thoughts and Wishful Thinking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
     
     <atom:link href="https://aa-private.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://aa-private.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aa-private.github.io/archives/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Title</title>
@@ -29,6 +38,16 @@ Content Content Content&lt;/p&gt;
       
       <guid>https://aa-private.github.io/post/understanding_ethics/</guid>
       <description>&lt;p&gt;My Summary&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://aa-private.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aa-private.github.io/about/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,&lt;/p&gt;
 </description>
     </item>
     
