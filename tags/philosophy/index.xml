@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Scattered Thoughts and Wishful Thinking</title>
-    <link>https://aa-private.github.io/post/</link>
-    <description>Scattered Thoughts and Wishful Thinking (Posts)</description>
+    <title>philosophy on Scattered Thoughts and Wishful Thinking</title>
+    <link>https://aa-private.github.io/tags/philosophy/</link>
+    <description>Scattered Thoughts and Wishful Thinking (philosophy)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-    <atom:link href="https://aa-private.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aa-private.github.io/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Some Title</title>
-      <link>https://aa-private.github.io/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://aa-private.github.io/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Some Other Content.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Understanding Ethics</title>

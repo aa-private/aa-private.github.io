@@ -18,7 +18,12 @@
   </url>
   
   <url>
-    <loc>https://aa-private.github.io/tags/markdown/</loc>
+    <loc>https://aa-private.github.io/tags/fake/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aa-private.github.io/tags/philosophy/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://aa-private.github.io/tags/summary/</loc>
+    <loc>https://aa-private.github.io/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,11 +44,6 @@
   
   <url>
     <loc>https://aa-private.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aa-private.github.io/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
