@@ -23,25 +23,6 @@
     color: var(--tertiary-color);
 }
 
-/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
-@media screen and (min-width: 601px)
-{
-}
-
-/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
-@media screen and (max-width: 600px)
-{
-    #title a:link,
-    #title a:visited
-    {
-    	font-size: 20px;
-    }
-}
-
-
-
-
-
 #slogan {
 	font-size: 15px;
 	color: var(--secondary-color);
@@ -159,4 +140,24 @@ li {
 	padding-top: 20px;
 	text-align: center;
 	font-size: 15px;
+}
+
+
+
+
+/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+@media screen and (min-width: 601px)
+{
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px)
+{
+/*
+    #title a:link,
+    #title a:visited
+    {
+    	font-size: 20px;
+    }
+*/
 }
