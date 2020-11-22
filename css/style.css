@@ -145,12 +145,15 @@ li {
 
 
 
-/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
-@media screen and (min-width: 601px)
+@media screen and (min-width: 1000px)
 {
+    .main {
+    	width: 800px;
+    	background: #fff;
+    	margin: 0 auto;
+    }
 }
 
-/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
 @media screen and (max-width: 600px)
 {
 /*
@@ -160,4 +163,9 @@ li {
     	font-size: 20px;
     }
 */
+    .main {
+    	width: 90%;
+    	background: #fff;
+    	margin: 0 auto;
+    }
 }
