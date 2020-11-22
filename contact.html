@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="./css/style.css" media="screen"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reflections_</title>
+</head>
+
+<body>
+	<div class="main">
+
+		<div id="title"><a href="index.html">Reflections_</a></div>
+		<div id="slogan">Changing the Narrative</div>
+
+		<div class="navlist">
+			<ul>
+				<li><a href="about.html">About</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</div>
+
+		<div class="content">
+			<div class="post">
+				<div class="posttitle">Contact</div>
+			</div>
+
+			<p>Send me an <a href="mailto:email@google.com">email</a>, or use the form below</p>
+
+		</div>
+
+<!-- https://www.w3schools.com/howto/howto_css_contact_form.asp -->
+<div>
+    <form method="post" action="//formspree.io/{{ with .Site.Params.email }}{{.}}{{ end }}" novalidate>
+    
+      <div><input type="text" name="name" placeholder="(Optional) Name"></div>
+      <div><input type="text" name="email" placeholder="(Optional) Email"></div>
+      <div><input type="text" name="subject" placeholder="Subject"></div>
+      <div><textarea name="message" placeholder="Message" style="height:200px"></textarea></div>
+      <div><input type="submit" value="Submit"></div>
+    
+  </form>
+</div> 
+
+
+		<div class="footer"> &copy; Wiseman Freeman, 2020
+		</div>
+	</div>
+</body>
+</html>
